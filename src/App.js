@@ -8,6 +8,7 @@ class App extends Component {
   render() {
     return (
       <div>
+        christina was here
         <Navigation />
         <Character />
       </div>
